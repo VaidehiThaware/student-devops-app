@@ -1,0 +1,7 @@
+.git
+.venv
+__pycache__
+tests
+k8s
+Jenkinsfile
+README.md
