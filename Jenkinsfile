@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        IMAGE = "YOUR_DOCKERHUB_USER/student-devops-app"
+        IMAGE = "vaidehithaware/student-devops-app"
         TAG   = "${BUILD_NUMBER}"
     }
 
